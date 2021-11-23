@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nehadil
+- 👋 Hi, I’m @charliedil
 - 👀 I’m interested in Natural Language Processing, Machine Learning, and Data Science.
 - 🌱 I’m currently working on Unsupervised Named-Entity Recognition using clustering algorithms.
 - 💞️ I’m looking to collaborate on nothing at the moment, although this could change in the future! Very focused on NER right now.
