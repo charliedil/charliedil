@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @charliedil
 - 👀 I’m interested in Natural Language Processing, Machine Learning, and Data Science.
-- 🌱 I’m currently experimenting with using RelEx and MedaCy over different note types
+- 🌱 I’m currently doing visual word sense disambiguation
 - 💞️ I’m interested in collaborating on any projects involving sentiment analysis and emotion detection
 - 📫 You can reach me at ndil@vcu.edu
 
