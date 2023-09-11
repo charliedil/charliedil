@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @charliedil
 - 👀 I’m interested in Natural Language Processing, Machine Learning, and Data Science.
-- 🌱 I’m currently doing visual word sense disambiguation
+- 🌱 I’m currently using LLMs for improving vulnerability datasets
 - 💞️ I’m interested in collaborating on any projects involving sentiment analysis and emotion detection
 - 📫 You can reach me at ndil@vcu.edu
 
