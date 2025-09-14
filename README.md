@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @charliedil
 - 👀 I’m interested in Natural Language Processing, Machine Learning, and Data Science.
 - 🌱 I’m currently experimenting with GraphRAG
-- 💞️ I’m interested in collaborating on any projects involving sentiment analysis and emotion detection
+- 💞️ I’m interested in collaborating on any projects involving question-answering
 - 📫 You can reach me at ndil@vcu.edu
 
 <!---
